@@ -1,0 +1,14 @@
+{
+  "name": "babel-parser-perf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js ./some-code-to-parse.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/parser": "^7.1.0"
+  }
+}

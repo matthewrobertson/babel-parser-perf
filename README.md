@@ -1,1 +1,1 @@
-# babel-parser-perf
+Run `npm run test` to parse the same code with and without the typescript plugin.
